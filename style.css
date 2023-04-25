@@ -160,9 +160,9 @@ min-height: 500px;
 }
 .textright{
     position: absolute;
-    top: 60px;
+    top: 111px;
     right: 0;
-
+z-index: 100;
     width: 364;
     height: 264;
 }
