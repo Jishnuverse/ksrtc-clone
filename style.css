@@ -359,6 +359,7 @@ min-height: 500px;
     width: 312px;
     height: 368px;
     margin-left: 10px;
+    cursor: pointer;
     
     
 }
@@ -370,6 +371,7 @@ min-height: 500px;
 }
 .column4 img{
     height: 25px;
+    cursor: pointer;
 
 }
 .wtsapp img{
